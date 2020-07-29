@@ -1,0 +1,6 @@
+#python notes!
+
+1.	In python, / operator always yields float result and not integer!!
+	So, 3/2 != 1
+	To get the int value, use //
+	So, 3//2 = 1
